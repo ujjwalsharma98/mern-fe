@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Header = props => {
+const Footer = props => {
     return(
         <div>
             Footer
@@ -8,4 +8,4 @@ const Header = props => {
     )
 }
 
-export default Header;
+export default Footer;
